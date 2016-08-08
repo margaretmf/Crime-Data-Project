@@ -1,1 +1,1 @@
-Analysis of crime data in Chicago using R
+Analysis and mining of crime data in Chicago using R
